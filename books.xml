@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<books>
+    <book>
+        <id>1</id>
+        <name>Мастер и маргарита</name>
+        <author>Михаил Булгаков</author>
+        <details>
+            <pages>225</pages>
+            <binding>Твердый</binding>
+        </details>
+        <stores>
+            <store>oz.by</store>
+        </stores>
+    </book>
+    <book>
+        <id>2</id>
+        <name>Винни пух</name>
+        <author>Алан Милн</author>
+        <details>
+            <pages>42</pages>
+            <binding>Мягкий</binding>
+        </details>
+        <stores>
+            <store>oz.by</store>
+            <store>Академкнига</store>
+        </stores>
+    </book>
+</books>
